@@ -2,6 +2,6 @@
 Interactive Excel dashboard analyzing Wipro Limited's 5-year financial performance (FY2020–FY2024) — revenue, margins, EPS &amp; segment trends,ROI.
 ## Dashboard Preview
 
-![Dashboard](wipro_dashboard.png)
+![Wipro Financial Dashboard](wipro_dashboard.png)
 
-![Analysis](analysis.png)
+![Analysis & Insights](Analysis.png)
