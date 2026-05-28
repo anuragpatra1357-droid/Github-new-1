@@ -1,5 +1,7 @@
 # DASHBOARD-EXCEL-PROJECT-OF-WIPRO-5-YEARS-FROM-2020-TO-2024-FINANCIAL-VALUATION
-Interactive Excel dashboard analyzing Wipro Limited's 5-year financial performance (FY2020–FY2024) — revenue, margins, EPS &amp; segment trends,ROI.
+An independent financial analysis of Wipro Limited using 5 years of annual report data (FY2020–FY2024). Built an interactive Excel dashboard performing ratio analysis to evaluate profitability, efficiency, and liquidity trends.
+Objective
+To assess Wipro's financial health over a 5-year period and determine whether the stock represents a sound investment based on fundamental ratios — without relying on external analyst reports.
 ## Dashboard Preview
 
 ![Wipro Financial Dashboard](wipro_dashboard.png)
