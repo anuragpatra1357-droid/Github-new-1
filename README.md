@@ -4,6 +4,6 @@ Objective
 To assess Wipro's financial health over a 5-year period and determine whether the stock represents a sound investment based on fundamental ratios — without relying on external analyst reports.
 ## Dashboard Preview
 
-![Wipro Financial Dashboard](wipro_dashboard.png)
+![Wipro Financial Dashboard](Dashboard.png)
 
 ![Analysis & Insights](Analysis.png)
